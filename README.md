@@ -1,0 +1,1 @@
+This is my personal e-portofolio. It is a collection of my projects, my skills and my experiences. It is a work in progress, so it will be updated from time to time.
